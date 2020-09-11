@@ -1,0 +1,5 @@
+print(" M                 M        N          N       M                M ")
+print(" M  M           M  M        N  N       N       M  M          M  M ")
+print(" M    M       M    M        N     N    N       M    M      M    M ")
+print(" M      M   M      M        N       N  N       M      M  M      M ")
+print(" M        M        M        N          N       M        M       M ")
